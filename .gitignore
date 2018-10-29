@@ -25,3 +25,12 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+
+**.iml
+**.idea
+**/target
+**/node_modules
+**.classpath
+**.project
+**.settings
+api
